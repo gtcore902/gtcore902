@@ -2,7 +2,7 @@
 
 ![Profil image](https://github.com/gtcore902/gtcore902/blob/master/profil-img.png)
 
-## Web developper
+## Web developer
 
 
 > I'm **french web developer** since 1 year ago and salesman since 14 years ago.
