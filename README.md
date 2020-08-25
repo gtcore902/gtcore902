@@ -4,9 +4,13 @@
 
 ## Web developper
 
-> I'm french web developper since 1 year ago and salesman since 14 years ago.
+
+> I'm **french web developer** since 1 year ago and salesman since 14 years ago.
+
 > And I like to code!
-> I'm free for open source projects!
+
+> I'm **free** for **open source projects**!
+
 
 [Personal website](https://www.gaetantremois.fr) :octocat:
 
