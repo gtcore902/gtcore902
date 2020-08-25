@@ -2,6 +2,12 @@
 
 ![Profil image](https://github.com/gtcore902/gtcore902/blob/master/profil-img.png)
 
-[Website](https://www.gaetantremois.fr)
+## Web developper
 
-[Pro](https://www.insightweb.fr)
+I'm french web developper since 1 year ago and salesman since 14 years ago.
+And I like to code !
+I'm free for open source project !
+
+[Personal website](https://www.gaetantremois.fr) :octocat:
+
+[website pro](https://www.insightweb.fr) :rocket:
