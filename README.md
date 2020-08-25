@@ -4,10 +4,10 @@
 
 ## Web developper
 
-I'm french web developper since 1 year ago and salesman since 14 years ago.
-And I like to code !
-I'm free for open source project !
+> I'm french web developper since 1 year ago and salesman since 14 years ago.
+> And I like to code!
+> I'm free for open source projects!
 
 [Personal website](https://www.gaetantremois.fr) :octocat:
 
-[website pro](https://www.insightweb.fr) :rocket:
+[Website pro](https://www.insightweb.fr) :rocket:
