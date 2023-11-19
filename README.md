@@ -14,9 +14,9 @@
 
 ![Metrics](https://metrics.lecoq.io/gtcore902?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
-![Languages]("https://github-readme-stats.vercel.app/api/top-langs?username=gtcore902&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark")
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-[Personal website](https://www.gaetantremois.fr) :octocat:
+[Website personal](https://www.gaetantremois.fr) :octocat:
 
 [Website pro](https://www.insightweb.fr) :rocket:
 
