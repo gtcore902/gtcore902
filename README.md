@@ -1,6 +1,6 @@
 # Hi, I'm Gaëtan! :metal:
 
-![Profil image](https://github.com/gtcore902/gtcore902/blob/master/gaetantremois.fr_(1).png)
+![Profil image](https://github.com/gtcore902/gtcore902/blob/master/github_banner.png)
 
 ## Web developer
 
