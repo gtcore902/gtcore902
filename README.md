@@ -11,12 +11,8 @@ After 17 as a business developer, I am now a **web developer** from France.
 And I like to code!
 
 I'm **free** for **open source projects**! 
+
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gtcore902&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
-![Metrics](https://metrics.lecoq.io/gtcore902?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gtcore902&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
