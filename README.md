@@ -18,6 +18,8 @@ I'm **free** for **open source projects**!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gtcore902&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtcore902&langs_count=8)
+
 ## :mailbox_with_mail: Get in touch
 
 [Website personal](https://www.gaetantremois.fr) :octocat:
