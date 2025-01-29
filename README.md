@@ -16,7 +16,7 @@ I'm **free** for **open source projects**!
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
-<img src="[https://github-readme-stats.vercel.app/api/top-langs?username=gtcore902&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark](https://github-readme-stats.vercel.app/api/top-langs?username=gtcore902&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=8)" alt="ovi" />
+<img src="[https://github-readme-stats.vercel.app/api/top-langs?username=gtcore902&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs?username=gtcore902&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=8)" alt="ovi" />
 
 ## :mailbox_with_mail: Get in touch
 
