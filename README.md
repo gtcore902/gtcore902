@@ -24,4 +24,6 @@ I'm **free** for **open source projects**!
 
 [Website personal](https://www.gaetantremois.fr) :octocat:
 
+[GitHub Pro](https://github.com/gtneoma)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ga%C3%ABtan-tremois-a956a91a3/)
